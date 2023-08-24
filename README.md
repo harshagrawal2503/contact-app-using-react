@@ -5,7 +5,6 @@ The app includes a dashboard with charts and maps that display COVID-19 data for
 # Deployed Link : - 
 https://contactsandmap.netlify.app/
 
-# Pages and Functionality
 ## The app has two main pages:
 
 # Contacts
@@ -23,7 +22,6 @@ The app uses the following APIs to fetch data:
 - Country Specific data of cases: https://disease.sh/v3/covid-19/countries
 - Graph data for cases with date: https://disease.sh/v3/covid-19/historical/all?lastdays=all
 
-# Technologies Used
 ## The following technologies were used to build this app:
 
 - ReactJS
@@ -32,33 +30,6 @@ The app uses the following APIs to fetch data:
 - React Router v6
 - React Query
 - Redux
-
-
-## Contact Page :-
-
-<img src="./ScreenShots/Contact_Page.PNG"/>
-
-</br>
-<img src="./ScreenShots/Contact_Page_2.PNG"/>
-
-</br>
-<img src="./ScreenShots/Contact_Details.PNG"/>
-
-</br>
-<img src="./ScreenShots/Contact_form.PNG"/>
-
-</br>
-
-
-## Charts And Maps Page :-
-
-<img src="./ScreenShots/Chart_And_Maps_1.PNG"/>
-
-</br>
-<img src="./ScreenShots/Charts_and_Map_2.PNG"/>
-
-</br>
-
 
 
 
